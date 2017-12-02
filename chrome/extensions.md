@@ -110,6 +110,14 @@ zz.bdstatic.com
 zzzzz2.52896368.com
 ```
 
+## uBlock Origin
+[store](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-app-launcher-info-dialog)
+
+#### My filters
+```
+blog.csdn.net##.csdn-tracking-statistics
+```
+
 ## Personal Blocklist (by Google)
 [store](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef?utm_source=chrome-app-launcher-info-dialog)
 
@@ -160,4 +168,19 @@ URL: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
 ## Home - New Tab Page
 [store](https://chrome.google.com/webstore/detail/home-new-tab-page/ehhkfhegcenpfoanmgfpfhnmdmflkbgk?utm_source=chrome-app-launcher-info-dialog)
+
+## Tampermonkey
+[store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)
+
+## Raindrop.io: "Save Button" for Web
+[store](https://chrome.google.com/webstore/detail/raindropio-save-button-fo/ldgfbffkinooeloadekpmfoklnobpien?utm_source=chrome-app-launcher-info-dialog)
+
+## Momentum
+[store](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog)
+
+## Be Limitless
+[store](https://chrome.google.com/webstore/detail/be-limitless/jdpnljppdhjpafeaokemhcggofohekbp?utm_source=chrome-app-launcher-info-dialog)
+
+## ModHeader
+[store](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?utm_source=chrome-app-launcher-info-dialog)
 
