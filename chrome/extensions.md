@@ -184,3 +184,6 @@ URL: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 ## ModHeader
 [store](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?utm_source=chrome-app-launcher-info-dialog)
 
+## Markdown Viewer
+[store](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk?utm_source=chrome-app-launcher-info-dialog)
+
