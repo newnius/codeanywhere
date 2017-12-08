@@ -2,4 +2,6 @@
 
 sudo apt update && sudo apt install -y \
 				vim \
-				httpie
+				httpie \
+				keepass2 \
+				thunderbird
