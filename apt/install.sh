@@ -2,6 +2,8 @@
 
 sudo apt update && sudo apt install -y \
 				vim \
+				tree \
 				httpie \
 				keepass2 \
-				thunderbird
+				thunderbird \
+				privoxy
