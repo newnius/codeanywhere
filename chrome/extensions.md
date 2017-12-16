@@ -115,7 +115,7 @@ zzzzz2.52896368.com
 
 #### My filters
 ```
-blog.csdn.net##.csdn-tracking-statistics
+TBC
 ```
 
 ## Personal Blocklist (by Google)
@@ -123,6 +123,13 @@ blog.csdn.net##.csdn-tracking-statistics
 
 #### List
 ```
+360doc.com
+ask.helplib.com
+baike.baidu.com
+blog.sina.com.cn
+jingyan.baidu.com
+tieba.baidu.com
+tk4479.net
 zhidao.baidu.com
 ```
 
@@ -166,9 +173,6 @@ raindrop.io +ssr
 #### Rule list
 URL: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
-## Home - New Tab Page
-[store](https://chrome.google.com/webstore/detail/home-new-tab-page/ehhkfhegcenpfoanmgfpfhnmdmflkbgk?utm_source=chrome-app-launcher-info-dialog)
-
 ## Tampermonkey
 [store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)
 
@@ -177,9 +181,6 @@ URL: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
 ## Momentum
 [store](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog)
-
-## Be Limitless
-[store](https://chrome.google.com/webstore/detail/be-limitless/jdpnljppdhjpafeaokemhcggofohekbp?utm_source=chrome-app-launcher-info-dialog)
 
 ## ModHeader
 [store](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?utm_source=chrome-app-launcher-info-dialog)
