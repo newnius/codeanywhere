@@ -176,9 +176,6 @@ URL: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 ## Tampermonkey
 [store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)
 
-## Raindrop.io: "Save Button" for Web
-[store](https://chrome.google.com/webstore/detail/raindropio-save-button-fo/ldgfbffkinooeloadekpmfoklnobpien?utm_source=chrome-app-launcher-info-dialog)
-
 ## Momentum
 [store](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog)
 
@@ -188,3 +185,5 @@ URL: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 ## Markdown Viewer
 [store](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk?utm_source=chrome-app-launcher-info-dialog)
 
+## Bookmark Manager
+[store](https://chrome.google.com/webstore/detail/bookmark-manager/gmlllbghnfkpflemihljekbapjopfjik?utm_source=chrome-app-launcher-info-dialog)
