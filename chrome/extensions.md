@@ -141,37 +141,17 @@ zhidao.baidu.com
 [SwitchyOmega Conditions]
 @with result
 
-*.google.com.hk +ssr
-*.googlevideo.com +ssr
-cdn.sstatic.net +ssr
-www.w3schools.com +ssr
-*.ytimg.com +ssr
-*.google.com +ssr
-stackoverflow.com +ssr
-ajax.googleapis.com +ssr
-fonts.googleapis.com +ssr
-*.gstatic.com +ssr
-*.namecheap.com +ssr
-*virmach.com +ssr
-github.com +ssr
-*.githubusercontent.com +ssr
-*.v2ex.com +ssr
-v2ex.assets.uxengine.net +ssr
 hadoop-master +docker-proxy-vm
 hadoop-slave1 +docker-proxy-vm
 hadoop-slave2 +docker-proxy-vm
 hadoop-slave3 +docker-proxy-vm
-s3.amazonaws.com +ssr
-*.gitbooks.io +ssr
-*.cloudflare.com +ssr
-*.64clouds.com +ssr
-raindrop.io +ssr
+hexo +docker-proxy-vm
 
-* +direct
+* +ssr
 ```
 
 #### Rule list
-URL: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+URL: https://github.com/neko-dev/gfw_whitelist/raw/master/gfw_whitelist.txt
 
 ## Tampermonkey
 [store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)
