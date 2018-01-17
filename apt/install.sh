@@ -6,4 +6,5 @@ sudo apt update && sudo apt install -y \
 				httpie \
 				keepass2 \
 				thunderbird \
-				privoxy
+				privoxy \
+				filezilla
