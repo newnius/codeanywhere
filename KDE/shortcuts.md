@@ -11,7 +11,10 @@
 `Meta+V` -> `virtualbox`
 
 ## Filezilla
-`Meta+F` -> `/usr/local/FileZilla3/bin/filezilla`
+`Meta+F` -> `filezilla`
 
 ## IntelliJ
 `Meta+I` -> `/usr/local/idea/bin/idea.sh`
+
+## Steam
+`Meta+S` -> `steam`

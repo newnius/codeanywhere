@@ -7,4 +7,8 @@ sudo apt update && sudo apt install -y \
 				keepass2 \
 				thunderbird \
 				privoxy \
-				filezilla
+				filezilla \
+				git \
+				python-pip \
+				curl \
+				openssh-server

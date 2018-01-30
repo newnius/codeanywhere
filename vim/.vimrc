@@ -9,6 +9,6 @@ set tabstop=2
 
 set nonumber
 
-set mouse=
+set mouse-=a
 
 set encoding=utf-8
