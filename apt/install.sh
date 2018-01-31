@@ -11,4 +11,5 @@ sudo apt update && sudo apt install -y \
 				git \
 				python-pip \
 				curl \
-				openssh-server
+				openssh-server \
+				bash-completion
