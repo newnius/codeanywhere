@@ -60,6 +60,7 @@ rule:
       - s,entry.baidu.com
       - s,gsp0.baidu.com
       - s,hc.baidu.com
+      - s,hiphotos.baidu.com
       - s,hm.baidu.com
       - s,hm.baidu.com.cn
       - s,hmma.baidu.com
