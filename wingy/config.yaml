@@ -19,12 +19,14 @@ adapter:
     type: reject
     delay: 200
 rule:
-  - type: white_list
-    adpater: speed
+  # white list
+  - type: list
+    adapter: speed
     criteria:
       - s,tieba.baidu.com
       - s,imgsa.baidu.com
-  - type: ad_tracking
+  # ads & tracking
+  - type: list
     adapter: reject
     criteria:
       # Baidu
@@ -779,7 +781,8 @@ rule:
       - s,zzrcz.com
       - s.log.da.hunantv.com
       - s.log.v2.hunantv.com
-  - type: intranet
+  # intranet
+  - type: iplist
     adapter: direct
     criteria:
       # IP-CIDR-Direct
@@ -790,7 +793,7 @@ rule:
       - 169.254.0.0/16
       - 224.0.0.0/8
   - type: DNSFail
-    adapter: PROXY
+    adapter: ss
   - type: country
     country: CN
     match: true
