@@ -9,6 +9,9 @@ cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86_64" | tar xzf -
 ## GUI
 [link](https://www.dropbox.com/install-linux)
 
+```bash
+cd ~ && wget -O - "https://www.dropbox.com/download?dl=packages/ubuntu/dropbox_2015.10.28_amd64.deb" | sudo dpkg -i && sudo apt -f install
+```
 
 ```
 sudo apt install -y python-gpgme

@@ -3,7 +3,7 @@
 	name = username
 [core]
 	autocrlf = input
-[http]
+[http "https://github.com"]
 	proxy = socks5://127.0.0.1:1080
-[https]
+[https "https://github.com"]
 	proxy = socks5://127.0.0.1:1080
