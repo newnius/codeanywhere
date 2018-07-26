@@ -115,7 +115,49 @@ zzzzz2.52896368.com
 
 #### My filters
 ```
-TBC
+! 7/13/2018, 10:46:55 AM http://www.freebuf.com/articles/others-articles/130622.html
+www.freebuf.com###mar-right
+
+! 7/13/2018, 8:15:37 PM https://juejin.im/post/5ab83f67f265da237e09b2f6
+juejin.im##.index-book-collect
+
+! 7/13/2018, 8:18:02 PM https://juejin.im/post/5ab83f67f265da237e09b2f6
+juejin.im##.recommend-box > .extension
+
+! 7/13/2018, 8:19:31 PM http://blog.51cto.com/daixuan/2044851
+blog.51cto.com##.special-column
+
+! 7/15/2018, 1:14:12 PM https://www.jianshu.com/p/383cae967a64
+||cdn2.jianshu.io/assets/web/web-note-ad-side-banner-22096669b4c4b91c3b9266894e951aef.png$image
+
+! 7/15/2018, 1:14:21 PM https://www.jianshu.com/p/383cae967a64
+www.jianshu.com###web-note-ad-fixed
+
+*.baidu.com
+*.baidustatic.com
+
+*.dsxdn.com
+
+cee1.iteye.com
+cee2.iteye.com
+
+g.csdnimg.cn/track/
+pv.csdn.net
+re.csdn.net
+
+shared.ydstatic.com
+
+! 7/17/2018, 12:43:51 PM https://blog.csdn.net/HaixWang/article/details/79407193
+blog.csdn.net##.box-shadow.mb8.csdn-tracking-statistics
+
+static.bshare.cn
+
+
+d5.sina.com.cn/litong/zhitou/sinaads/*
+d1.sina.com.cn/litong/zhitou/sinaads/*
+
+sax.sina.com.cn
+saxn.sina.com.cn
 ```
 
 ## Personal Blocklist (by Google)
@@ -155,6 +197,12 @@ URL: https://github.com/neko-dev/gfw_whitelist/raw/master/gfw_whitelist.txt
 
 ## Tampermonkey
 [store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)
+
+#### scripts
+
+```
+https://cat7373.github.io/remove-web-limits/
+```
 
 ## Momentum
 [store](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog)
