@@ -1,0 +1,20 @@
+[Unit]
+Description=Shadowsocks Server
+After=network.target
+ConditionPathExists=/usr/local/ss/shadowsocks-server
+
+[Service]
+#EnvironmentFile=-/etc/default/ssh
+#ExecStartPre=/usr/sbin/sshd -t
+ExecStart=/usr/local/ss/shadowsocks-server -c /usr/local/ss/config.json
+ExecStop=/usr/local/ss/stop.sh
+#ExecReload=/usr/sbin/sshd -t
+#ExecReload=/bin/kill -HUP $MAINPID
+#KillMode=process
+Restart=on-failure
+#RestartPreventExitStatus=255
+#Type=notify
+
+[Install]
+WantedBy=multi-user.target
+Alias=ss.service

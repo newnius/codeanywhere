@@ -1,0 +1,20 @@
+[Unit]
+Description=Frp Client
+After=network.target
+ConditionPathExists=/usr/local/frp/frpc
+
+[Service]
+#EnvironmentFile=-/etc/default/ssh
+#ExecStartPre=/usr/sbin/sshd -t
+ExecStart=/usr/local/frp/frpc -c /usr/local/frp/frpc.ini
+#ExecStop=/usr/local/ss/stop.sh
+#ExecReload=/usr/sbin/sshd -t
+#ExecReload=/bin/kill -HUP $MAINPID
+#KillMode=process
+Restart=on-failure
+#RestartPreventExitStatus=255
+#Type=notify
+
+[Install]
+WantedBy=multi-user.target
+Alias=frpc.service
