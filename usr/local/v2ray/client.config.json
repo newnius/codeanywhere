@@ -1,0 +1,51 @@
+{
+  "inbounds": [{
+    "port": 1081,
+    "listen": "127.0.0.1",
+    "protocol": "socks",
+    "settings": {
+      "udp": true
+    }
+  },{
+    "port": 8001,
+    "listen": "127.0.0.1",
+    "protocol": "http",
+    "settings": {
+      "timeout": 0,
+      "userLevel": 0
+    }
+  }
+],
+  "outbounds": [{
+    "protocol": "vmess",
+    "settings": {
+      "vnext": [{
+        "address": "example.com",
+        "port": 443,
+        "users": [{ "id": "" }]
+      }]
+    },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "wsSettings": {
+          "path": "/ray"
+        }
+      }
+  },{
+    "protocol": "freedom",
+    "tag": "direct",
+    "settings": {}
+  }],
+  "routing": {
+    "strategy": "rules",
+    "settings": {
+      "domainStrategy": "IPOnDemand",
+      "rules": [{
+        "type": "field",
+        "ip": ["geoip:private"],
+        "outboundTag": "direct"
+      }]
+    }
+  }
+}
